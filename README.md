@@ -1,4 +1,4 @@
-# edxHangman
+# mitxHangman
 Codes for solving Problem Set 3 (**Hangman Game**) in MITx: 6.00.1x (Introduction to Computer Science and Programming Using Python)
 
 In-game screenshot:
